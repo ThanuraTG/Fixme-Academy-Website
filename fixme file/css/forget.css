@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forget{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px rgb(125, 121, 121);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Times New Roman;
+    padding: 20px;
+    margin-top: 10%;
+    width: 40%;
+}
+.div{
+    border-bottom: 3px solid red;
+    box-shadow: 3px 3px 3px 3px rgb(125, 121, 121);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-align: center;
+    width: 80%;
+    padding: 30px;
+}
+.div label{
+    width: 150px;
+    /* display: block; */
+    margin-top: 10px;
+    font-weight: 500;
+}
+.div h3{
+    border-bottom: 2px solid red;
+    width: 45%;
+    margin-left: 27.5%;
+}
+.div input{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 75%;
+    text-align: left;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.div button{
+    width: 40%;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    background-color: #f31111db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 30%;
+    font-family: Perpetua Titling MT;
+}

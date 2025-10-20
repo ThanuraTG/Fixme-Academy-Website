@@ -1,0 +1,1700 @@
+
+
+2025-07-28 19:51:47 - Login attempt started
+Login POST data: Array
+(
+    [email] => dd@gmail.com
+    [password] => 123456
+    [signin] => 
+)
+
+Attempting login for dd@gmail.com
+User found: Array
+(
+    [id] => 33
+    [full_name] => dsawkdwn
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => bhwdsxksdk
+    [phone_no] => 788381817
+    [email] => dd@gmail.com
+    [course] => Acupunture
+    [password] => $2y$10$TLjtjGpLjDwl4
+)
+
+Input password: 123456
+Stored hash: $2y$10$TLjtjGpLjDwl4
+Verification result: false
+Password verification failed
+
+
+2025-07-28 19:51:58 - Login attempt started
+Login POST data: Array
+(
+    [email] => dd@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for dd@gmail.com
+User found: Array
+(
+    [id] => 33
+    [full_name] => dsawkdwn
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => bhwdsxksdk
+    [phone_no] => 788381817
+    [email] => dd@gmail.com
+    [course] => Acupunture
+    [password] => $2y$10$TLjtjGpLjDwl4
+)
+
+Input password: 111111
+Stored hash: $2y$10$TLjtjGpLjDwl4
+Verification result: false
+Password verification failed
+
+
+2025-07-28 19:59:25 - Login attempt started
+Login POST data: Array
+(
+    [email] => aaaa@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for aaaa@gmail.com
+User found: Array
+(
+    [id] => 34
+    [full_name] => DCbwiue
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => fscxdydxGYuwxwWUx
+    [phone_no] => 775248809
+    [email] => aaaa@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$pwDrbEAA8EWDa
+)
+
+Input password: 111111
+Stored hash: $2y$10$pwDrbEAA8EWDa
+Verification result: false
+Password verification failed
+
+
+2025-07-28 20:08:32 - Login attempt started
+Login POST data: Array
+(
+    [email] => zz@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for zz@gmail.com
+User found: Array
+(
+    [id] => 35
+    [full_name] => gFGCEDdhe
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => NJUNnIRUFNIURNUkjjfrn
+    [phone_no] => 774569800
+    [email] => zz@gmail.com
+    [course] => Human Resource
+    [password] => $2y$10$dVzZIrjMoc4AlAuO/tVrIeE4w8r2HSH4ZJ32ZpSsfa05VAN7DSXIK
+)
+
+Input password: 111111
+Stored hash: $2y$10$dVzZIrjMoc4AlAuO/tVrIeE4w8r2HSH4ZJ32ZpSsfa05VAN7DSXIK
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 00:29:54 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 00:32:59 - Login attempt started
+Login POST data: Array
+(
+    [email] => 
+    [password] => 
+    [signin] => 
+)
+
+Login validation errors: Empty Inputs, Invalid Email, Invalid Password
+
+
+2025-07-29 00:35:57 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => cdscdscds
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: cdscdscds
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: false
+Password verification failed
+
+
+2025-07-29 00:36:11 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilsxakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilsxakzoon@gmail.com
+No user found with email thanurathilsxakzoon@gmail.com
+
+
+2025-07-29 00:36:15 - Login attempt started
+Login POST data: Array
+(
+    [email] => 
+    [password] => 
+    [signin] => 
+)
+
+Login validation errors: Empty Inputs, Invalid Email, Invalid Password
+
+
+2025-07-29 00:38:04 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 00:39:21 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 00:47:24 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 10:03:09 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 22:32:37 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-29 23:13:03 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 36
+    [full_name] => thanura
+    [nic_number] => 2147483647
+    [gender] => Male
+    [address] => KANKANIGEWATHTHAKIRIELLA
+    [phone_no] => 701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => Cyber Security
+    [password] => $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+)
+
+Input password: 111111
+Stored hash: $2y$10$To8olbwzIAOCTJ6ZCiEvmOgTiRWaAefEZsEU39Lywaqjq.ivlkccG
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 10:20:51 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 10:53:37 - Login attempt started
+Login POST data: Array
+(
+    [email] => vgjbhjbjvgvgvhjvkjvgvgvkgvvgkgggvvkvgvg@tgtgt.gttg
+    [password] => 123456
+    [signin] => 
+)
+
+Attempting login for vgjbhjbjvgvgvhjvkjvgvgvkgvvgkgggvvkvgvg@tgtgt.gttg
+User found: Array
+(
+    [id] => 
+    [full_name] => jbbhj
+    [nic_number] => 154516541545646
+    [gender] => Other
+    [address] => vbghbhjb
+    [phone_no] => 0788381812
+    [email] => vgjbhjbjvgvgvhjvkjvgvgvkgvvgkgggvvkvgvg@tgtgt.gttg
+    [course] => Human Resource
+    [password] => $2y$10$5AV7KGv7egLmTqVECjAgcunutjcRylCqkRCmuSaTjG.QFbzJBZ3W6
+)
+
+Input password: 123456
+Stored hash: $2y$10$5AV7KGv7egLmTqVECjAgcunutjcRylCqkRCmuSaTjG.QFbzJBZ3W6
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 11:10:59 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: 111111
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: false
+Password verification failed
+
+
+2025-07-31 11:11:11 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 12:57:07 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 15:57:40 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 15:59:21 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 19:02:25 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-07-31 23:54:02 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-01 00:14:51 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-01 01:12:50 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-01 02:30:10 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-01 18:36:02 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-01 22:08:41 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 18:54:06 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 19:03:50 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 20:08:06 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 22:31:07 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 22:35:06 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-02 23:30:28 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 00:07:00 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 00:31:43 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 02:35:11 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 03:14:02 - Login attempt started
+Login POST data: Array
+(
+    [email] => kusuma@gmail.com
+    [password] => Kusuma123
+    [signin] => 
+)
+
+Attempting login for kusuma@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => kusuma
+    [nic_number] => 635968741278
+    [gender] => Female
+    [address] => rathnapura
+    [phone_no] => 0788381813
+    [email] => kusuma@gmail.com
+    [course] => data science
+    [password] => $2y$10$vLiX7oZgeKMk4Hh9z4753uxXCyHqTRgfj9hRcawaVdlx.eEjJwbGe
+)
+
+Input password: Kusuma123
+Stored hash: $2y$10$vLiX7oZgeKMk4Hh9z4753uxXCyHqTRgfj9hRcawaVdlx.eEjJwbGe
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 20:56:18 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$KR4SdcI8OW3SlrFokYZC8O4ySPWP/IJpv..HoLC8E4va1GKu6tQW2
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 21:52:39 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: false
+Password verification failed
+
+
+2025-08-03 21:52:47 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 123123
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 123123
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 22:39:21 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 123456
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 123456
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: false
+Password verification failed
+
+
+2025-08-03 22:39:31 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 123123
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 123123
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-03 22:40:42 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilak@gmail.com
+    [password] => 123456
+    [signin] => 
+)
+
+Attempting login for thanurathilak@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura thilak
+    [nic_number] => 200005600018
+    [gender] => Male
+    [address] => KANKANIGE WATHTHA,KIRIELLA
+    [phone_no] => 0745869321
+    [email] => thanurathilak@gmail.com
+    [course] => Management
+    [password] => $2y$10$2un.Lu7FcfTH6SLblbqum.ZPm5kJQaWFyExFxCcy6HRJqzX9/JE/a
+)
+
+Input password: 123456
+Stored hash: $2y$10$2un.Lu7FcfTH6SLblbqum.ZPm5kJQaWFyExFxCcy6HRJqzX9/JE/a
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-04 17:09:20 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 123123
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 123123
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-04 21:25:56 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 12313
+    [signin] => 
+)
+
+Login validation errors: Invalid Password
+
+
+2025-08-04 21:26:05 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 123123
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 123123
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-16 07:33:07 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => mmmmmm
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: mmmmmm
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: false
+Password verification failed
+
+
+2025-08-16 07:33:17 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+)
+
+Input password: 111111
+Stored hash: $2y$10$C92ea.98d/9skza.feziOO1s7d2dLSeyvWw4LjbY5aTlFosCssWLC
+Verification result: false
+Password verification failed
+
+
+2025-08-16 07:34:50 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 111111
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$5fbT7l0rUGpQ941rcwEKEufg/4pYaayhL0c7BULXCCjpJj39KucUq
+)
+
+Input password: 111111
+Stored hash: $2y$10$5fbT7l0rUGpQ941rcwEKEufg/4pYaayhL0c7BULXCCjpJj39KucUq
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-16 07:41:19 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-17 19:04:29 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-17 19:05:48 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-17 19:06:55 - Login attempt started
+Login POST data: Array
+(
+    [email] => 
+    [password] => 
+    [signin] => 
+)
+
+Login validation errors: Empty Inputs, Invalid Email, Invalid Password
+
+
+2025-08-18 01:38:19 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-18 01:40:08 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-21 20:18:57 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-08-26 20:44:45 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-09-14 17:58:39 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-09-19 01:09:03 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
+
+
+2025-09-23 08:51:11 - Login attempt started
+Login POST data: Array
+(
+    [email] => thanurathilakzoon@gmail.com
+    [password] => 222222
+    [signin] => 
+)
+
+Attempting login for thanurathilakzoon@gmail.com
+User found: Array
+(
+    [id] => 
+    [full_name] => thanura
+    [nic_number] => 200005600010
+    [gender] => Male
+    [address] => KIRIELLA
+    [phone_no] => 0701226045
+    [email] => thanurathilakzoon@gmail.com
+    [course] => data science
+    [password] => $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+)
+
+Input password: 222222
+Stored hash: $2y$10$EzRjh0jhv5FMb5EGrFxBJ.d36UzGZTv129gyOSIXrYS6RFqKsEPYO
+Verification result: true
+Password verified successfully
+Login successful, redirecting to Home.php
